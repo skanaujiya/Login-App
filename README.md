@@ -17,7 +17,7 @@ I'm a android and ios app developer and also a good full stack developer. I am i
 ## 🛠 Skills
 Dart, Flutter, Java, PHP, SQL, YAML HTML, CSS...
 
-## Authors
+## Author
 - [@Shubham_Kanaujiya](https://github.com/skanaujiya)
 
 
